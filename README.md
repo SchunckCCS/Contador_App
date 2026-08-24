@@ -1,4 +1,5 @@
-Cauã Correa Schunck - RA 078230
+# Cauã Correa Schunck 
+##RA 078230
 
 ---
 
@@ -10,7 +11,6 @@ Botão de subtrair: Faz a subtração do valor atual da variável com 1
 
 Botão de zerar: Atribui o valor da variável a 0
 
----
-
 Além de algumas verificações que existem dentro das funções, para impedir números negativos ou alterar a cor dependendo da faixa do valor.
 Eu fiz todos os desafios extras. Em um código fiz o D1, D2 e D3, no outro código fiz o D1, D2, D4 e D5.
+---
