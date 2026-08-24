@@ -1,6 +1,5 @@
 # Cauã Correa Schunck 
 
----
 O estado (variável contador) é o pilar lógico do código, se não fosse por ele teríamos apenas o design da tela sem nenhuma funcionalidade. Existem algumas funções que modificam essa variável, sendo:
 
 Botão de somar: Faz a soma do valor atual da variável com 1
